@@ -11,7 +11,7 @@ namespace TaskManagementService.Models
         public int Id { get; set; }
 
         [Required(ErrorMessage = "Title is required.")]
-        [SritngLenght(150, MinumunLenght = 3, ErrorMessage = "Title must be between 3 and 150 characters.")]
+        [StringLength(150, MinimumLength = 3, ErrorMessage = "Title must be between 3 and 150 characters.")]
         public string Title { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "Description is required.")]
@@ -33,7 +33,7 @@ namespace TaskManagementService.Models
         public int EstimatedHours { get; set; }
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
-        public DateTime UpdatedAt { get; set; } = DateTime.UtcNow;
+        public DateTime? UpdatedAt { get; set; } = DateTime.UtcNow;
 
         public enum TaskPriority
         {
