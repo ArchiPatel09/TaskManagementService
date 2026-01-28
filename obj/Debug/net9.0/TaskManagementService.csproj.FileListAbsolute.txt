@@ -1,0 +1,8 @@
+C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Assignment 1\TaskManagementService\obj\Debug\net9.0\TaskManagementService.csproj.AssemblyReference.cache
+C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Assignment 1\TaskManagementService\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Assignment 1\TaskManagementService\obj\Debug\net9.0\TaskManagementService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Assignment 1\TaskManagementService\obj\Debug\net9.0\TaskManagementService.AssemblyInfoInputs.cache
+C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Assignment 1\TaskManagementService\obj\Debug\net9.0\TaskManagementService.AssemblyInfo.cs
+C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Assignment 1\TaskManagementService\obj\Debug\net9.0\TaskManagementService.csproj.CoreCompileInputs.cache
+C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Assignment 1\TaskManagementService\obj\Debug\net9.0\TaskManagementService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\archi\Desktop\Programs\Level-6 of CPA\PROG3176 - PDAD\Assignment 1\TaskManagementService\obj\Debug\net9.0\TaskManagementService.sourcelink.json

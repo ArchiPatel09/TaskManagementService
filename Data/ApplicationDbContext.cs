@@ -3,18 +3,28 @@ using TaskManagementService.Models;
 
 namespace TaskManagementService.Data
 {
+    // database context for the task management service
     public class ApplicationDbContext : DbContext
     {
+        // constructor
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
         }
 
+        // dbSet for TaskItems
         public DbSet<TaskItem> TaskItems { get; set; }
 
+        // configuring model properties and seed data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<TaskItem>().Property(t => t.Priority)
+                .HasConversion<int>();
+
+            modelBuilder.Entity<TaskItem>().Property(t => t.Status)
+                .HasConversion<int>();
 
             modelBuilder.Entity<TaskItem>().HasData(
                 new TaskItem
