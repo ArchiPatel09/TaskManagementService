@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "fX2Icc4PUHw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\archi\\Desktop\\Programs\\Level-6 of CPA\\PROG3176 - PDAD\\Assignment 1\\TaskManagementService\\TaskManagementService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\archi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\archi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\9.0.0\\microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
+    "C:\\Users\\archi\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\archi\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.0\\swashbuckle.aspnetcore.10.1.0.nupkg.sha512",
+    "C:\\Users\\archi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.0\\swashbuckle.aspnetcore.swagger.10.1.0.nupkg.sha512",
+    "C:\\Users\\archi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.0\\swashbuckle.aspnetcore.swaggergen.10.1.0.nupkg.sha512",
+    "C:\\Users\\archi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.0\\swashbuckle.aspnetcore.swaggerui.10.1.0.nupkg.sha512",
+    "C:\\Users\\archi\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
