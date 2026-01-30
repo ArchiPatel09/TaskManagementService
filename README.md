@@ -42,5 +42,5 @@ TaskStatus - Pending, InProgress, Completed, Cancelled
 1. Clone repository [URL: https://github.com/ArchiPatel09/TaskManagementService] or download the submitted zip file
 2. write donet restore to restore the dependencies 
 3. write dotnet run to run the app
-4. When the application runs, go to google or edge and type url: http://localhost:5071/swagger to check swagger endpoints
-5. If you want to see the data from the database, type this url: http://localhost:5071/api/TaskItems
+4. When the application runs, go to google or edge and type url: http://localhost:PORT/swagger to check swagger endpoints
+5. If you want to see the data from the database, type this url: http://localhost:PORT/api/TaskItems
